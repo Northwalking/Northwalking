@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Northwolking
+- 👋 Hi, I’m @Northwalking
 - 👀 I’m interested in System Engineering and Safety Assessment
 - 🌱 I’m currently learning everything about this website
 - 💞️ I’m looking to collaborate on elaborating new ideas
